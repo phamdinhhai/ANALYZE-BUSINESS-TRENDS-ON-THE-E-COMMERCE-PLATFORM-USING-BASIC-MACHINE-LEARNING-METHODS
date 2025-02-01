@@ -1,0 +1,7 @@
+# Bỏ qua file lớn
+models/random_forest_model.pkl
+
+# Bỏ qua thư mục cache, build
+__pycache__/
+node_modules/
+.DS_Store
